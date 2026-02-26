@@ -7,6 +7,8 @@ AI for art, music, ... not sellling dopamine.
 
 --- 
 
+## The Definition
+
 AIC-Creative is a civilizational creative framework.
 
 It is not an entertainment engine.
