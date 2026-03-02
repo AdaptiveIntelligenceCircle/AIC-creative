@@ -41,6 +41,9 @@ namespace aic
                 ArtOutput create(const ArtDescriptor &descriptor); 
 
                 private: 
+                SymbolicArtEngine symbolic_engine_; 
+                VisualStabilityAnalyzer stability_analyzer_; 
+
                 bool approve(double stability, double symbolism); 
             }; 
         }
