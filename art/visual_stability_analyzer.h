@@ -13,7 +13,7 @@ namespace aic
             class VisualStabilityAnalyzer 
             {
                 public: 
-                double evaluate(const string &symbolic_representation); 
+                double evaluate(const string &rep); 
 
                 private: 
                 double symmetry_score(const string &rep); 
